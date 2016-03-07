@@ -7,5 +7,6 @@ namespace SMW_Platformer
 {
     class Sprite
     {
+        //this is a test if I can push to this project
     }
 }
