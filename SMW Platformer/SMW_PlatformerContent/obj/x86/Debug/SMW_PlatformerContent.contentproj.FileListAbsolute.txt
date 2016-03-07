@@ -1,0 +1,1 @@
+c:\users\hugo honkoop\documents\visual studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_PlatformerContent\obj\x86\Debug\SMW_PlatformerContent.contentprojResolveAssemblyReference.cache
