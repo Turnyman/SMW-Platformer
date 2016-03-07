@@ -15,3 +15,20 @@ c:\users\hugo honkoop\documents\visual studio 2015\Projects\SMW Platformer\SMW P
 c:\users\hugo honkoop\documents\visual studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\obj\x86\Debug\SMW_Platformer.exe
 c:\users\hugo honkoop\documents\visual studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\obj\x86\Debug\SMW_Platformer.pdb
 c:\users\hugo honkoop\documents\visual studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Content\speler.xnb
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Content\speler.xnb
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\SMW_Platformer.exe
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\SMW_Platformer.pdb
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\obj\x86\Debug\SMW_Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\obj\x86\Debug\SMW_Platformer.exe
+C:\Users\Kelvin\Documents\Visual Studio 2015\Projects\SMW Platformer\SMW Platformer\SMW_Platformer\obj\x86\Debug\SMW_Platformer.pdb
