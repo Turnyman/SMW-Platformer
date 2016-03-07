@@ -23,8 +23,9 @@ namespace SMW_Platformer
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+             
         }
-
+        
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
         /// This is where it can query for any required services and load any non-graphic
@@ -45,7 +46,11 @@ namespace SMW_Platformer
         Vector2 spritePosition = Vector2.Zero;
 
         // Store some information about the sprite's motion.
-        Vector2 spriteSpeed = new Vector2(50.0f, 50.0f);
+        Vector2 spriteSpeed = new Vector2(5.0f, 5.0f);
+
+        float grav = 5.0f;
+        bool grounded = false;
+        private AnimatedTexture spriteTexture;
 
         /// <summary>
         /// LoadContent will be called once per game and is the place to load
@@ -80,8 +85,42 @@ namespace SMW_Platformer
                 this.Exit();
 
             // TODO: Add your update logic here
-            UpdateSprite(gameTime);
+            MovementUpdate(gameTime);
             base.Update(gameTime);
+        }
+
+        void MovementUpdate(GameTime gameTime)
+        {
+            KeyboardState state = Keyboard.GetState();
+            if(state.IsKeyDown(Keys.Down))
+            {
+                //spritePosition.Y += spriteSpeed.Y;
+            }
+            if (state.IsKeyDown(Keys.Up))
+            {
+                grounded = false; 
+            }
+            if (state.IsKeyDown(Keys.Left))
+            {
+                spritePosition.X -= spriteSpeed.X;
+            }
+            if (state.IsKeyDown(Keys.Right))
+            {
+                spritePosition.X += spriteSpeed.X;
+            }
+            if (!grounded)
+            {
+                spritePosition.Y += grav;
+                if (spritePosition.Y >= (500) / 2)
+                {
+                    grounded = true;
+                    spritePosition.Y = 250;
+                }
+                else
+                {
+                    grounded = false;
+                }
+            }
         }
 
         void UpdateSprite(GameTime gameTime)
